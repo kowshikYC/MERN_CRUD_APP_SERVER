@@ -52,6 +52,11 @@ app.use(
 // Required to read data sent in POST / PUT requests
 app.use(express.json());
 
+//ROOT ROUTE
+app.get("/",(res,req)=>{
+  res.send("API RUNNING SUCCESSFULLY")
+}); 
+
 // --------------------------------------------------
 // ROUTE REGISTRATION
 // --------------------------------------------------
