@@ -53,7 +53,7 @@ app.use(
 app.use(express.json());
 
 //ROOT ROUTE
-app.get("/",(res,req)=>{
+app.get("/",(req,res)=>{
   res.send("API RUNNING SUCCESSFULLY")
 }); 
 
