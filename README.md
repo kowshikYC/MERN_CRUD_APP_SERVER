@@ -218,7 +218,7 @@ DELETE /books/:id
 
 ## 👤 Author
 
-**Nischal Aremanda**  
+**YASHASVI KOWSHIK CHALLAGUNDLA**  
 Backend & Full‑Stack Developer
 
 
